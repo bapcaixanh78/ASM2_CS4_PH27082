@@ -1,0 +1,62 @@
+﻿@using ASM2.IServices;
+@using ASM2.Services;
+@model IEnumerable<ASM2.Models.CartDetail>
+
+@{
+	ViewData["Title"] = "ShowCart";
+	Layout = "_Layout";
+
+}
+
+<h1>ShowCart</h1>
+@{
+	ProductService _product = new ProductService();
+	UserService _User = new UserService();
+}
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Id)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.UserId)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.IdSP)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Quantity)
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Id)
+				</td>
+				<td>
+					@_User.GetAllUsers().FirstOrDefault(c=>c.Id == item.UserId).Username
+				</td>
+				<td>
+					@_product.GetProductById(item.IdSP).Name
+
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Quantity)
+				</td>
+				<td>
+					@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+					@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+					@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

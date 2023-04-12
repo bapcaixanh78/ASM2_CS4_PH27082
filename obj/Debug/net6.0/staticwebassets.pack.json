@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASM2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\css\\trangchu.css",
+      "PackagePath": "staticwebassets\\css\\trangchu.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\302176142_793408581894812_1161614760846876856_n.jpg",
+      "PackagePath": "staticwebassets\\images\\302176142_793408581894812_1161614760846876856_n.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\305410347_844167156954741_4839466463465156189_n.jpg",
+      "PackagePath": "staticwebassets\\images\\305410347_844167156954741_4839466463465156189_n.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\305624385_411740674435328_5879616480989365741_n.jpg",
+      "PackagePath": "staticwebassets\\images\\305624385_411740674435328_5879616480989365741_n.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\BZRTNi.png",
+      "PackagePath": "staticwebassets\\images\\BZRTNi.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\Screenshot 2023-03-20 052527.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-03-20 052527.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\a2.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\images\\a3.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\ao1.png",
+      "PackagePath": "staticwebassets\\images\\ao1.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\ao2.png",
+      "PackagePath": "staticwebassets\\images\\ao2.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\ao3.png",
+      "PackagePath": "staticwebassets\\images\\ao3.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\ao4.png",
+      "PackagePath": "staticwebassets\\images\\ao4.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\ao5.png",
+      "PackagePath": "staticwebassets\\images\\ao5.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\ao6.png",
+      "PackagePath": "staticwebassets\\images\\ao6.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\bhva.webp",
+      "PackagePath": "staticwebassets\\images\\bhva.webp"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\c33ba531408016494cd16f30044e8228.jpg",
+      "PackagePath": "staticwebassets\\images\\c33ba531408016494cd16f30044e8228.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\che.png",
+      "PackagePath": "staticwebassets\\images\\che.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\q1.png",
+      "PackagePath": "staticwebassets\\images\\q1.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\q2.png",
+      "PackagePath": "staticwebassets\\images\\q2.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\q3.png",
+      "PackagePath": "staticwebassets\\images\\q3.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\q4.png",
+      "PackagePath": "staticwebassets\\images\\q4.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\spnb1.png",
+      "PackagePath": "staticwebassets\\images\\spnb1.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\spnb2.png",
+      "PackagePath": "staticwebassets\\images\\spnb2.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\spnb3.png",
+      "PackagePath": "staticwebassets\\images\\spnb3.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\spnb4.png",
+      "PackagePath": "staticwebassets\\images\\spnb4.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\tcn.png",
+      "PackagePath": "staticwebassets\\images\\tcn.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\tinchuan.jpg",
+      "PackagePath": "staticwebassets\\images\\tinchuan.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\tttruong77741438pm.jpg",
+      "PackagePath": "staticwebassets\\images\\tttruong77741438pm.jpg"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\vanchuyen.png",
+      "PackagePath": "staticwebassets\\images\\vanchuyen.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\images\\z.png",
+      "PackagePath": "staticwebassets\\images\\z.png"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Workspace\\Csharp4\\ASM2\\ASM2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASM2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASM2.props",
+      "PackagePath": "build\\ASM2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASM2.props",
+      "PackagePath": "buildMultiTargeting\\ASM2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASM2.props",
+      "PackagePath": "buildTransitive\\ASM2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

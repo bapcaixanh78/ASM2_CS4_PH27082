@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ASM2</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ASM2.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    @*HEADER*@
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Login">ASM2</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Register">Register</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    @*------------------------------*@
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*FOOTER*@
+    <!-- footer -->
+    <footer style="margin-top: 40px;background-color: #212121 !important;">
+        <div class="container">
+            <div class="footer-top">
+                <div class="row">
+                    <div class="col-md-4 col-xs-6" style="padding: 0 25px;color: #fff;">
+                        <p class="footer-title" style="margin-top: 30px;margin-bottom: 25px;padding-bottom: 20px;border-bottom: 1px solid #383838;font-size: 12px;font-weight: 600;">PDK Shop  - Nhanh chóng - Chính hãng - Tiện lợi</p>
+                        <div class="footer-sub">
+                            <p>
+                                <span>
+                                    Nhà Phân Phối&nbsp;Chính Hãng&nbsp;Các mặt hàng quần áo Hàn Quốc
+                                    &nbsp;Tại Việt Nam
+                                </span>
+                            </p>
+                            <p>
+                                <strong>
+                                    <span>
+                                        Hotline/Zalo:
+                                        <span style="color: #ff0;">0865 399 576</span>
+                                    </span>
+                                </strong>
+                            </p>
+                            <p>
+                                <span>Địa chỉ: Tòa nhà FPT, Phường Trịnh Văn Bô, Xuân Phương, Nam Từ Liêm, Hà Nội</span>
+                            </p>
+                            <p><span>Email: Khaipdph27082@zenwatch.vn</span></p>
+                            <p><span>Đại lý bán lẻ:</span></p>
+                            <p><strong><span>Shop Quần áo Khải Đình</span></strong></p>
+                            <p>
+                                <a href="#">
+                                    <span>
+                                        <img style="width:150px;" src="../img/logo.png" alt="">
+                                    </span>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-xs-6" style="color: white;padding: 0 25px;">
+                        <p class="footer-title" style="margin-top: 30px;margin-bottom: 25px;padding-bottom: 20px;border-bottom: 1px solid #383838;font-size: 12px;font-weight: 600;">CHÍNH SÁCH & QUY ĐỊNH</p>
+                        <div class="footer-sub footer-menu">
+                            <ul style="list-style: none;text-decoration: none;">
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Giới thiệu về chúng tôi</a>
+                                </li>
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Liên hệ với chúng tôi</a>
+                                </li>
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Quy định và hình thức thanh toán</a>
+                                </li>
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Chính sách vận chuyển, giao nhận</a>
+                                </li>
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Chính sách về bảo mật thông tin</a>
+                                </li>
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Chính sách bảo hành</a>
+                                </li>
+                                <li class="menu-item" style="margin-bottom: 7px;">
+                                    <a href="#" style="color:white;">Chính sách đổi trả</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-xs-12" style="color: white;padding: 0 25px;">
+                        <p class="footer-title" style="margin-top: 30px;margin-bottom: 25px;padding-bottom: 20px;border-bottom: 1px solid #383838;font-size: 12px;font-weight: 600;">TRANG FACEBOOK</p>
+                        <p>
+                            Fanpage: <a href="https://www.facebook.com/khaipd78">https://www.facebook.com/khaipd78</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-after" style="align-items: center;border-top: 1px solid #d9d9d9;padding-top: 16px;">
+                <div class="copyright" style="text-align: center;">
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

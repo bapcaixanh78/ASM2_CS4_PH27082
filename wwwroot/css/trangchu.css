@@ -1,0 +1,25 @@
+/* .navbar{
+    width: 100%;
+    background-color: rgb(249, 249, 249);
+} */
+
+.header{
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    top: 0;
+}
+
+li{
+    color: aliceblue;
+}
+
+.dropdown-item{
+    color: brown;
+    background-color: green;
+}
+
+.btn:hover{
+    background-color: green;
+    border: 1px  solid greenyellow;
+}
